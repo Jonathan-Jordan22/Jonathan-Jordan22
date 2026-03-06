@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jonathan Jordan
 ========================================================================================================================================
 
-Frontend Developer
+Fullstack Developer
 ------------------
 
-I'm a Frontend Software Engineer with a strong passion for building web applications with great user experiences.
+I'm a Fullstack Software Engineer with a strong passion for building web applications with great user experiences.
 
 * 🌍  I'm based in Denver, CO
 * 🖥️  See my portfolio at [My Portfolio](http://professional-e-portfolio.vercel.app/)

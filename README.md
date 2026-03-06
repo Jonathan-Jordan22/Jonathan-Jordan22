@@ -1,19 +1,45 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jonathan Jordan
-========================================================================================================================================
+# Hi, I'm Jonathan Jordan
 
-Fullstack Developer
-------------------
+## Full-Stack Software Engineer | Backend & Database Focused
 
-I'm a Fullstack Software Engineer with a strong passion for building web applications with great user experiences.
+I'm a software engineering student finishing a Bachelor's in Secure Software Development, with a focus on backend systems, databases, and full-stack application development. My coursework has been grounded in backend engineering and data management, and I've complemented that with hands-on project work building production-ready applications from the ground up.
 
-* 🌍  I'm based in Denver, CO
-* 🖥️  See my portfolio at [My Portfolio](http://professional-e-portfolio.vercel.app/)
-* ✉️  You can contact me at [jonathan.d.jordan22@gmail.com](mailto:jonathan.d.jordan22@gmail.com)
+I'm passionate about building software that solves real problems — systems that are well-structured, secure, and built to scale.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-</p>
+- 🌍 Based in Denver, CO
+- 🎓 B.S. Secure Software Development — Red Rocks Community College
+- 🖥️ Portfolio: [professional-e-portfolio.vercel.app](http://professional-e-portfolio.vercel.app/)
+- 📬 Reach me at [jonathan.d.jordan22@gmail.com](mailto:jonathan.d.jordan22@gmail.com)
+- 🔍 Currently seeking a Software Engineering internship in backend or full-stack development
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Jonathan-Jordan22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/jonathan-jordan-ab7719361" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+## Featured Project
+
+### [RelocateReady](https://relocate-ready.vercel.app/)
+A full-stack web application that helps users discover the best cities to relocate to based on personalized priorities — cost of living, safety, lifestyle, and more.
+
+- Designed and built a **PostgreSQL** database from scratch, manually curating city data across 11 locations
+- Developed a **REST API** using **Python** and **FastAPI**, handling all routing and data retrieval logic
+- Built the frontend in **React** and **Tailwind CSS**, consuming the API to render personalized city rankings
+- Diagnosed and resolved a complex API routing issue by recoding both frontend and backend routing in parallel, ensuring clean end-to-end integration
+- Deployed and live at [relocate-ready.vercel.app](https://relocate-ready.vercel.app/)
+
+---
+
+## Skills
+
+**Backend & Databases**
+Python · FastAPI · SQL · PostgreSQL · Java · REST API Design · Secure Software Principles
+
+**Frontend**
+React · JavaScript · Next.js · HTML5 · CSS3 · Tailwind CSS
+
+**Tools & Workflow**
+Git · GitHub · VS Code · Figma · Agile Development
+
+---
+
+## Socials
+
+[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/Jonathan-Jordan22)&nbsp;&nbsp;[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/jonathan-jordan-ab7719361)

@@ -8,7 +8,7 @@ I'm passionate about building software that solves real problems — systems tha
 
 - 🌍 Based in Denver, CO
 - 🎓 B.S. Secure Software Development — Red Rocks Community College
-- 🖥️ Portfolio: [professional-e-portfolio.vercel.app](http://professional-e-portfolio.vercel.app/)
+- 🖥️ Portfolio: [professional-e-portfolio.vercel.app](http://jonathan-jordan-portfolio.vercel.app/)
 - 📬 Reach me at [jonathan.d.jordan22@gmail.com](mailto:jonathan.d.jordan22@gmail.com)
 - 🔍 Currently seeking a Software Engineering internship in backend or full-stack development
 
@@ -42,4 +42,4 @@ Git · GitHub · VS Code · Figma · Agile Development
 
 ## Socials
 
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/Jonathan-Jordan22)&nbsp;&nbsp;[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/jonathan-jordan-ab7719361)
+[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/Jonathan-Jordan22)&nbsp;&nbsp;[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/jonathan-jordan-dev)

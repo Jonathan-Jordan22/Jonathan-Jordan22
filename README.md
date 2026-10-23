@@ -8,7 +8,7 @@ I'm passionate about building software that solves real problems — systems tha
 
 - 🌍 Based in Chicago, IL
 - 🎓 B.S. Secure Software Development — Red Rocks Community College
-- 🖥️ Portfolio: [professional-e-portfolio.vercel.app](http://jonathan-jordan-portfolio.vercel.app/)
+- 🖥️ Portfolio: [jonathan-jordan-portfolio.vercel.app](http://jonathan-jordan-portfolio.vercel.app/)
 - 📬 Reach me at [jonathan.d.jordan22@gmail.com](mailto:jonathan.d.jordan22@gmail.com)
 - 🔍 Currently seeking a Software Engineering role in backend or full-stack development
 

@@ -6,11 +6,11 @@ I'm a software engineering student finishing a Bachelor's in Secure Software Dev
 
 I'm passionate about building software that solves real problems — systems that are well-structured, secure, and built to scale.
 
-- 🌍 Based in Denver, CO
+- 🌍 Based in Chicago, IL
 - 🎓 B.S. Secure Software Development — Red Rocks Community College
 - 🖥️ Portfolio: [professional-e-portfolio.vercel.app](http://jonathan-jordan-portfolio.vercel.app/)
 - 📬 Reach me at [jonathan.d.jordan22@gmail.com](mailto:jonathan.d.jordan22@gmail.com)
-- 🔍 Currently seeking a Software Engineering internship in backend or full-stack development
+- 🔍 Currently seeking a Software Engineering role in backend or full-stack development
 
 ---
 

@@ -42,4 +42,4 @@ Git · GitHub · VS Code · Figma · Agile Development
 
 ## Socials
 
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/Jonathan-Jordan22)&nbsp;&nbsp;[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/jonathan-jordan-dev)
+<a href="https://www.github.com/Jonathan-Jordan22"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jonathan-jordan-dev"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" height="32" /></a>
